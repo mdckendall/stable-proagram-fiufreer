@@ -21,7 +21,7 @@ class Main {
 				boolean t = scanner.nextBoolean();
 				h = new Horse(hn, w, t);
 				s.arrayList.add(h);
-			}//testing goodest 2
+			}//testing goodest 3
 			else{
 				break;
 			}
