@@ -8,7 +8,7 @@ class Main {
 		Scanner scanner = new Scanner(System.in);
 		s.address = scanner.nextLine();
 		do {
-			System.out.println("Do you wish to add a horse to the stable?"); //testing 
+			System.out.println("Do you wish to add a horse to the stable?"); //testing good
 			char input = scanner.next().charAt(0);
 			scanner.nextLine();
 			if(input == 'y'){
